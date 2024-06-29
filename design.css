@@ -1,0 +1,28 @@
+*{
+    background-color:aqua;
+}
+
+input{
+    display:flex;
+    margin: auto;
+    background-color: green;
+    text-align: right;
+    width: 215px;
+    height: 48px;
+    padding: 15
+    px 20px 8px 20px;
+    border-radius: 7px;
+    border: 2px solid rgb(40, 40, 40);
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 30px;
+}
+
+button{
+    width: 50px;
+    height: 45px;
+    margin: 0px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: 900;
+}
